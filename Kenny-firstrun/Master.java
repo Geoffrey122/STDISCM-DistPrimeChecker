@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 public class Master {
     private static final int PORT = 3000; // Updated port number for Master
-    private static final int MAX_THREAD_COUNT = 1; // Number of threads
+    private static final int MAX_THREAD_COUNT = 1024; // Number of threads
 
     public static void main(String[] args) {
         System.out.println("Number of threads used: " + MAX_THREAD_COUNT);

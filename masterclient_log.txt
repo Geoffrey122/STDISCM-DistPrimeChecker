@@ -1,0 +1,54 @@
+Master server is running on port 3100
+Client: Sending request...
+Master: Received task to find primes between 1 and 100000000
+Master: Sending task to slave to find primes between 50000001 and 100000000
+Master: Checked up to 1000000
+Master: Checked up to 2000000
+Master: Checked up to 3000000
+Master: Checked up to 4000000
+Master: Checked up to 5000000
+Master: Checked up to 6000000
+Master: Checked up to 7000000
+Master: Checked up to 8000000
+Master: Checked up to 9000000
+Master: Checked up to 10000000
+Master: Checked up to 11000000
+Master: Checked up to 12000000
+Master: Checked up to 13000000
+Master: Checked up to 14000000
+Master: Checked up to 15000000
+Master: Checked up to 16000000
+Master: Checked up to 17000000
+Master: Checked up to 18000000
+Master: Checked up to 19000000
+Master: Checked up to 20000000
+Master: Checked up to 21000000
+Master: Checked up to 22000000
+Master: Checked up to 23000000
+Master: Checked up to 24000000
+Master: Checked up to 25000000
+Master: Checked up to 26000000
+Master: Checked up to 27000000
+Master: Checked up to 28000000
+Master: Checked up to 29000000
+Master: Checked up to 30000000
+Master: Checked up to 31000000
+Master: Checked up to 32000000
+Master: Checked up to 33000000
+Master: Checked up to 34000000
+Master: Checked up to 35000000
+Master: Checked up to 36000000
+Master: Checked up to 37000000
+Master: Checked up to 38000000
+Master: Checked up to 39000000
+Master: Checked up to 40000000
+Master: Checked up to 41000000
+Master: Checked up to 42000000
+Master: Checked up to 43000000
+Master: Checked up to 44000000
+Master: Checked up to 45000000
+Master: Checked up to 46000000
+Master: Checked up to 47000000
+Master: Checked up to 48000000
+Master: Checked up to 49000000
+Master: Checked up to 50000000
